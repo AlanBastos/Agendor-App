@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendorAppTests</string>
+    <string name="text_organizations">EMPRESAS</string>
+    <string name="text_people">PESSOAS</string>
+    <string name="text_title">Contatos</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_organizations_details">OrganizationsDetailsActivity</string>
+</resources>
