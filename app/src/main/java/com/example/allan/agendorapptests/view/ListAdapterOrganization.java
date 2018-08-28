@@ -87,6 +87,7 @@ public class ListAdapterOrganization extends RecyclerView.Adapter<ListAdapterOrg
                         intent.putExtra("organization_email", organizationList.get(position).getContact().getEmail());
                         intent.putExtra("organization_phone", organizationList.get(position).getContact().getWork());
                         intent.putExtra("organization_cellphone", organizationList.get(position).getContact().getMobile());
+
                         
                         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         context.startActivity(intent);
