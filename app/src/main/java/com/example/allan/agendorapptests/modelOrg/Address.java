@@ -7,6 +7,7 @@ public class Address {
     @SerializedName("country")
     private String country;
 
+
     @SerializedName("district")
     private String district;
 

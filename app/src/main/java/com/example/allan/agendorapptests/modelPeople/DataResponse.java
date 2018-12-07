@@ -13,6 +13,7 @@ public class DataResponse {
         return data;
     }
 
+
     public void setData(List<People> data) {
         this.data = data;
     }

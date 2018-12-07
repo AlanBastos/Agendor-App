@@ -40,6 +40,7 @@ public class FragmentPeoples extends Fragment {
         return view;
     }
 
+
     private void getData() {
 
         PeopleService peopleService = new PeopleService();

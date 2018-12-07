@@ -36,7 +36,6 @@ public class PeoplesDetailsActivity extends AppCompatActivity {
         pCellphone = findViewById(R.id.peoplecelphone);
         pBirthday = findViewById(R.id.peoplebirthday);
 
-
         Intent intentForStartThisActivity = getIntent();
         if (intentForStartThisActivity.hasExtra("people_image")) {
 

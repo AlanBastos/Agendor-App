@@ -13,6 +13,7 @@ public interface PeopleApi {
     @GET("people")
     Call<DataResponse> getResults();
 
+
     @Headers("Authorization: Token 19c7fe22-741d-4b75-b091-52f64c9355ed")
     @GET("people/{id}")
     Call<DataResponse> getPeople(@Path("id") String id);

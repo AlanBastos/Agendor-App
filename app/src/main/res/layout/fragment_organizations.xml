@@ -13,5 +13,4 @@
         android:id="@+id/recylervieworganizations"
         />
 
-
 </LinearLayout>

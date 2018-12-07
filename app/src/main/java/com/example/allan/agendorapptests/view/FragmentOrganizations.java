@@ -41,7 +41,6 @@ public class FragmentOrganizations extends Fragment {
 
     }
 
-
     private void getData() {
 
         OrgService Org = new OrgService();

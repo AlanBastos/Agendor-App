@@ -7,6 +7,7 @@ public class Category {
     @SerializedName("id")
     private Integer id;
 
+
     @SerializedName("name")
     private String name;
 

@@ -28,6 +28,7 @@ public class Address {
     @SerializedName("city")
     private String city;
 
+
     public String getCountry() {
         return country;
     }

@@ -13,6 +13,7 @@ public class Logo {
     @SerializedName("thumb_large")
     private String thumbLarge;
 
+
     public String getFull() {
         return full;
     }

@@ -9,6 +9,7 @@ public class DataResponse {
     @SerializedName("data")
     private List<Organization> data;
 
+
     public List<Organization> getData() {
         return data;
     }

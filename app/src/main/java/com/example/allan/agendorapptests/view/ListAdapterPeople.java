@@ -51,7 +51,6 @@ public class ListAdapterPeople extends RecyclerView.Adapter<ListAdapterPeople.Li
                 .into(holder.peopleImage);
 
 
-
     }
 
 

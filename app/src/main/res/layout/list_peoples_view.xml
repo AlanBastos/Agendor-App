@@ -51,6 +51,7 @@
             android:text="Flux Industries"
             android:layout_below="@id/peopleName" />
 
+
         <view
             class="android.support.constraint.ConstraintLayout"
             id="@+id/view"

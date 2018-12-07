@@ -41,7 +41,6 @@ public class OrganizationsDetailsActivity extends AppCompatActivity {
         Intent intentForStartThisActivity = getIntent();
         if (intentForStartThisActivity.hasExtra("organization_image")) {
 
-
             String orgImage = getIntent().getExtras().getString("organization_image");
             String orgName = getIntent().getExtras().getString("organization_name");
             String orgSector = getIntent().getExtras().getString("organization_sector");

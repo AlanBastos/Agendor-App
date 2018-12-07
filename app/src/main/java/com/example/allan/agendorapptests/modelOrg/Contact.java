@@ -37,6 +37,7 @@ public class Contact {
     @SerializedName("skype")
     private Object skype;
 
+
     @SerializedName("instagram")
     private Object instagram;
 

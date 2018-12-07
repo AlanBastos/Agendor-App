@@ -84,6 +84,7 @@ public class Contact {
         return radio;
     }
 
+
     public void setRadio(Object radio) {
         this.radio = radio;
     }

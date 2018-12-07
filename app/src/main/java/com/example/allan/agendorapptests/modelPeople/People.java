@@ -22,6 +22,7 @@ public class People {
     @SerializedName("role")
     private String role;
 
+
     @SerializedName("ranking")
     private Integer ranking;
 

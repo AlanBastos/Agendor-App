@@ -10,6 +10,7 @@ public class Category {
     @SerializedName("name")
     private String name;
 
+
     public Integer getId() {
         return id;
     }

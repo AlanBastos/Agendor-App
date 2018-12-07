@@ -68,7 +68,6 @@ public class ListAdapterOrganization extends RecyclerView.Adapter<ListAdapterOrg
                     if (position != RecyclerView.NO_POSITION) {
                         Organization clickedDataItem = organizationList.get(position);
                         Intent intent = new Intent(context, OrganizationsDetailsActivity.class);
-
                         intent.putExtra("organization_image", organizationList.get(position).getLogo().getThumb());
                         intent.putExtra("organization_name", organizationList.get(position).getName());
                         intent.putExtra("organization_sector", organizationList.get(position).getSector().getName());
