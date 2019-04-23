@@ -95,7 +95,7 @@
                 android:layout_height="30dp"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="8dp"
-                app:srcCompat="@drawable/ic_contact_mail_black_24dp" />
+                android:src="@drawable/ic_contact_mail_black_24dp" />
 
             <TextView
                 android:id="@+id/textView18"
@@ -171,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="8dp"
-                app:srcCompat="@drawable/ic_place_black_24dp" />
+                android:src="@drawable/ic_place_black_24dp" />
 
             <TextView
                 android:id="@+id/org1"
@@ -219,7 +219,7 @@
                     android:layout_height="30dp"
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="8dp"
-                    app:srcCompat="@drawable/ic_group_black_24dp" />
+                    android:src="@drawable/ic_group_black_24dp" />
 
                 <TextView
                     android:id="@+id/org2"
@@ -267,7 +267,7 @@
                     android:layout_height="30dp"
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="8dp"
-                    app:srcCompat="@drawable/ic_call_black_24dp" />
+                    android:src="@drawable/ic_call_black_24dp" />
 
                 <TextView
                     android:id="@+id/textView1800"
