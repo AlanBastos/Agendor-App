@@ -54,7 +54,7 @@
         <view
             class="android.support.constraint.ConstraintLayout"
             id="@+id/view"
-            android:layout_width="386dp"
+            android:layout_width="match_parent"
             android:layout_height="1dp"
             android:layout_below="@+id/orgImage"
             android:layout_marginTop="6dp"

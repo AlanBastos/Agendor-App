@@ -1,4 +1,4 @@
-package com.example.allan.agendorapptests;
+package com.example.allan.agendorapptests.view;
 
 import android.app.SearchManager;
 import android.content.Context;
@@ -19,6 +19,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.allan.agendorapptests.R;
 import com.example.allan.agendorapptests.view.FragmentOrganizations;
 import com.example.allan.agendorapptests.view.FragmentPeoples;
 
